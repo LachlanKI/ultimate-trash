@@ -27,4 +27,4 @@ app.post('/submit', (req, res) => {
     })
 })
 
-app.listen(process.ENV.PORT || 8080, () => console.log('listening on 8080...'));
+app.listen(process.env.PORT || 8080, () => console.log('listening on 8080...'));
