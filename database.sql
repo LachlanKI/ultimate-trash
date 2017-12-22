@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS scores;
+
+CREATE TABLE scores (
+    id SERIAL PRIMARY KEY,
+    username VARCHAR (100) NOT NULL,
+    score INTEGER NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
