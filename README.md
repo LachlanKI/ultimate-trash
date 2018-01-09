@@ -1,6 +1,6 @@
 # Lachlan Kosaniuk Innes_
-[linkedin]
-(https://www.linkedin.com/in/lachlanki).
+my [linkedin]
+(https://www.linkedin.com/in/lachlanki/).
 
 ## ultimate-trash.herokuapp.com
 
@@ -13,12 +13,12 @@ You play as Keanu Reeves spinning through a world trash bags, with one goal... t
 Enemies include minions, Ruby Rhods and Nicholas Cage heads.
 Can you clear a path to the final boss?
 
-## controls
+## controls_
 - up arrow = move up
 - down arrow = move down
 - spacebar = show affection
 
-## technologies
+## technologies_
 - **frontend** > HTML, CSS, jQuery, phaser.js
 - **backend** > Node, Express, PostgreSQL
 
