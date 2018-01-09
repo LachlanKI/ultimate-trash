@@ -1,7 +1,7 @@
 # Lachlan Kosaniuk Innes_
   my [linkedin](https://www.linkedin.com/in/lachlanki/)
 
- +## [ultimate-trash.herokuapp.com](https://www.ultimate-trash.herokuapp.com/)
+ ## [ultimate-trash.herokuapp.com](https://www.ultimate-trash.herokuapp.com/)
 
   This is Ultimate Trash, the post modern vision of TomyTronic's Scrabmle from the 80's.
   During final project week at the Spiced Academy bootcamp, I was thinking of what to build.
