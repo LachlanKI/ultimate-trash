@@ -1,6 +1,5 @@
 # Lachlan Kosaniuk Innes_
-my [linkedin]
-(https://www.linkedin.com/in/lachlanki/).
+my [linkedin](https://www.linkedin.com/in/lachlanki/)
 
 ## ultimate-trash.herokuapp.com
 
