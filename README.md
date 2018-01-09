@@ -1,6 +1,6 @@
 # Lachlan Kosaniuk Innes_
 [linkedin]
-(https://www.linkedin.com/in/lachlanki)
+(https://www.linkedin.com/in/lachlanki).
 
 ## ultimate-trash.herokuapp.com
 
@@ -14,9 +14,9 @@ Enemies include minions, Ruby Rhods and Nicholas Cage heads.
 Can you clear a path to the final boss?
 
 ## controls
-up arrow = move up
-down arrow = move down
-spacebar = show affection
+- up arrow = move up
+- down arrow = move down
+- spacebar = show affection
 
 ## technologies
 - **frontend** > HTML, CSS, jQuery, phaser.js
