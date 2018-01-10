@@ -21,6 +21,8 @@
  - **frontend** > HTML, CSS, jQuery, phaser.js
  - **backend** > Node, Express, PostgreSQL
 
+## preview gifs_
+
 ![preview1](https://github.com/LachlanKI/ultimate-trash/blob/master/public/preview/ut-prev1.gif)
 
 ![preview2](https://github.com/LachlanKI/ultimate-trash/blob/master/public/preview/ut-prev2.gif)
